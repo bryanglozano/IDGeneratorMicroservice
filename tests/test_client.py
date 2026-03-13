@@ -1,10 +1,6 @@
 #written by coen
 
-
-#       needs filename
 from src.microservice7 import IDGenerator
-
-# function call needs correct name and argument order
 
 def main():
     print("Welcome to the microservice 7: ID Generator unit tests \n")
