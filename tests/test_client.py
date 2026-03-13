@@ -2,7 +2,7 @@
 
 
 #       needs filename
-from microservice7.py import IDGenerator
+from microservice7 import IDGenerator
 
 # function call needs correct name and argument order
 
